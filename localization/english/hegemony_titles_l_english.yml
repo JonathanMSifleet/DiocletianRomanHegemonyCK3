@@ -1,4 +1,7 @@
 ﻿l_english:
+ # Roman administrative government title flavourization
+ hegemon_administrative_male_roman: "Augustus"
+ hegemon_administrative_female_roman: "Augusta"
  h_roman_empire_tooltip:0 "The Roman Empire hegemony encompasses both the Western and Eastern Roman territories."
  e_western_roman_empire:0 "Western Roman Empire"
  e_western_roman_empire_adj:0 "Western Roman"
